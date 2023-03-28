@@ -1,0 +1,15 @@
+/Users/aleksejrubcena/Desktop/Specialization/Final_/bin/Debug/net6.0/Final_
+/Users/aleksejrubcena/Desktop/Specialization/Final_/bin/Debug/net6.0/Final_.deps.json
+/Users/aleksejrubcena/Desktop/Specialization/Final_/bin/Debug/net6.0/Final_.runtimeconfig.json
+/Users/aleksejrubcena/Desktop/Specialization/Final_/bin/Debug/net6.0/Final_.dll
+/Users/aleksejrubcena/Desktop/Specialization/Final_/bin/Debug/net6.0/Final_.pdb
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.csproj.AssemblyReference.cache
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.AssemblyInfoInputs.cache
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.AssemblyInfo.cs
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.csproj.CoreCompileInputs.cache
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.dll
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/refint/Final_.dll
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.pdb
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/Final_.genruntimeconfig.cache
+/Users/aleksejrubcena/Desktop/Specialization/Final_/obj/Debug/net6.0/ref/Final_.dll
