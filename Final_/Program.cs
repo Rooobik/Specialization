@@ -14,12 +14,8 @@ string[] GetPrgAsArrWord(string str)
     return str.Split(' '); // возвращаем массив слов
 }
 
-/// <summary>
 /// Поиск слов по их длинне
-/// </summary>
-/// <param name="str">Массив слов</param>
-/// <param name="wordLength">минимальная длинна слова</param>
-/// <returns>Массив найденых слов</returns>
+
 string[] FindWordsByLength(string[] str, int wordLength)
 {
     string newString = string.Empty;
